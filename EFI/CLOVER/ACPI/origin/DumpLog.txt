@@ -1,0 +1,161 @@
+30:366  8:639  Found BIOS RSDP at F0120
+30:366  0:000  Printing ACPI tables from RSDP F0120 ...
+30:366  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+30:366  0:000    (Xsdt: CCDFE1C0, Rsdt: CCDFE0FC)
+30:366  0:000    CCDFE1C0: 'XSDT', 'TP-JB', Rev: 1, Len: 236
+30:366  0:000    CCDFE0FC: 'RSDT', 'TP-JB', Rev: 1, Len: 136
+30:366  0:000    Tables in Xsdt: 25
+30:366  0:000    0. CCDF8000: 'FACP', 'TP-JB', Rev: 5, Len: 268
+30:366  0:000        (Dsdt: CCDE3000, Facs: CCD68000, XDsdt: CCDE3000, XFacs: 0)
+30:366  0:000        CCDE3000: 'DSDT', 'TP-JB', Rev: 2, Len: 69541
+30:366  0:000        CCD68000: 'FACS', Ver: 2, Len: 64
+30:366  0:000    1. CCDFD000: 'SLIC', 'TP-JB', Rev: 1, Len: 374
+30:366  0:000    2. CCDFC000: 'ASF!', 'TP-JB', Rev: 32, Len: 165
+30:366  0:000    3. CCDFB000: 'HPET', 'TP-JB', Rev: 1, Len: 56
+30:366  0:000    4. CCDFA000: 'ECDT', 'TP-JB', Rev: 1, Len: 82
+30:366  0:000    5. CCDF7000: 'APIC', 'TP-JB', Rev: 1, Len: 152
+30:366  0:000    6. CCDF6000: 'MCFG', 'TP-JB', Rev: 1, Len: 60
+30:366  0:000    7. CCDF5000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+30:366  0:000    8. CCDF4000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1158
+30:366  0:000    9. CCDE2000: 'SSDT', 'SataAhci', Rev: 1, Len: 2507
+30:366  0:000    10. CCDE1000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 338
+30:366  0:000    11. CCDE0000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1737
+30:366  0:000    12. CCDDF000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+30:366  0:000    13. CCDDE000: 'SSDT', 'CtdpB', Rev: 2, Len: 873
+30:366  0:000    14. CCDDC000: 'SSDT', 'SaSsdt', Rev: 1, Len: 5237
+30:366  0:000    15. CCDDB000: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+30:366  0:000    16. CCDDA000: 'PCCT', 'TP-JB', Rev: 5, Len: 110
+30:366  0:000    17. CCDD9000: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+30:366  0:000    18. CCDD8000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+30:366  0:000    19. CCDD7000: 'SSDT', 'TpmTable', Rev: 2, Len: 1712
+30:366  0:000    20. CCDD6000: 'UEFI', 'TP-JB', Rev: 1, Len: 66
+30:366  0:000    21. CCCB1000: 'MSDM', 'TP-JB', Rev: 3, Len: 85
+30:366  0:000    22. CCDD5000: 'BATB', 'TP-JB', Rev: 2, Len: 74
+30:366  0:000    23. CCDD4000: 'FPDT', 'TP-JB', Rev: 1, Len: 100
+30:366  0:000    24. CCDD3000: 'UEFI', 'TP-JB', Rev: 1, Len: 798
+30:366  0:000    Tables in Rsdt: 25
+30:366  0:000    0. CCDF8000: 'FACP', 'TP-JB', Rev: 5, Len: 268
+30:366  0:000        (Dsdt: CCDE3000, Facs: CCD68000, XDsdt: CCDE3000, XFacs: 0)
+30:366  0:000        CCDE3000: 'DSDT', 'TP-JB', Rev: 2, Len: 69541
+30:366  0:000        CCD68000: 'FACS', Ver: 2, Len: 64
+30:366  0:000    1. CCDFD000: 'SLIC', 'TP-JB', Rev: 1, Len: 374
+30:366  0:000    2. CCDFC000: 'ASF!', 'TP-JB', Rev: 32, Len: 165
+30:366  0:000    3. CCDFB000: 'HPET', 'TP-JB', Rev: 1, Len: 56
+30:366  0:000    4. CCDFA000: 'ECDT', 'TP-JB', Rev: 1, Len: 82
+30:366  0:000    5. CCDF7000: 'APIC', 'TP-JB', Rev: 1, Len: 152
+30:366  0:000    6. CCDF6000: 'MCFG', 'TP-JB', Rev: 1, Len: 60
+30:366  0:000    7. CCDF5000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+30:366  0:000    8. CCDF4000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1158
+30:366  0:000    9. CCDE2000: 'SSDT', 'SataAhci', Rev: 1, Len: 2507
+30:366  0:000    10. CCDE1000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 338
+30:366  0:000    11. CCDE0000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1737
+30:366  0:000    12. CCDDF000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+30:366  0:000    13. CCDDE000: 'SSDT', 'CtdpB', Rev: 2, Len: 873
+30:366  0:000    14. CCDDC000: 'SSDT', 'SaSsdt', Rev: 1, Len: 5237
+30:366  0:000    15. CCDDB000: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+30:366  0:000    16. CCDDA000: 'PCCT', 'TP-JB', Rev: 5, Len: 110
+30:366  0:000    17. CCDD9000: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+30:366  0:000    18. CCDD8000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+30:366  0:000    19. CCDD7000: 'SSDT', 'TpmTable', Rev: 2, Len: 1712
+30:366  0:000    20. CCDD6000: 'UEFI', 'TP-JB', Rev: 1, Len: 66
+30:366  0:000    21. CCCB1000: 'MSDM', 'TP-JB', Rev: 3, Len: 85
+30:366  0:000    22. CCDD5000: 'BATB', 'TP-JB', Rev: 2, Len: 74
+30:366  0:000    23. CCDD4000: 'FPDT', 'TP-JB', Rev: 1, Len: 100
+30:366  0:000    24. CCDD3000: 'UEFI', 'TP-JB', Rev: 1, Len: 798
+30:366  0:000  Found UEFI Acpi 2.0 RSDP at CCDFE014
+30:366  0:000  Saving ACPI tables from RSDP CCDFE014 to EFI\CLOVER\ACPI\origin ...
+30:366  0:000   CCDFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+30:366  0:000    (Xsdt: CCDFE1C0, Rsdt: CCDFE0FC)
+30:366  0:000    CCDFE1C0: 'XSDT', 'TP-JB', Rev: 1, Len: 236
+30:366  0:000    CCDFE0FC: 'RSDT', 'TP-JB', Rev: 1, Len: 136
+30:366  0:000    Tables in Xsdt: 25
+30:366  0:000    0. CCDF8000: 'FACP', 'TP-JB', Rev: 5, Len: 268
+30:366  0:000        (Dsdt: CCDE3000, Facs: CCD68000, XDsdt: CCDE3000, XFacs: 0)
+30:366  0:000        CCDE3000: 'DSDT', 'TP-JB', Rev: 2, Len: 69541
+30:366  0:000        CCD68000: 'FACS', Ver: 2, Len: 64
+30:366  0:000    1. CCDFD000: 'SLIC', 'TP-JB', Rev: 1, Len: 374
+30:366  0:000    2. CCDFC000: 'ASF!', 'TP-JB', Rev: 32, Len: 165
+30:366  0:000    3. CCDFB000: 'HPET', 'TP-JB', Rev: 1, Len: 56
+30:366  0:000    4. CCDFA000: 'ECDT', 'TP-JB', Rev: 1, Len: 82
+30:366  0:000    5. CCDF7000: 'APIC', 'TP-JB', Rev: 1, Len: 152
+30:366  0:000    6. CCDF6000: 'MCFG', 'TP-JB', Rev: 1, Len: 60
+30:366  0:000    7. CCDF5000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+30:366  0:000    8. CCDF4000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1158
+30:366  0:000    9. CCDE2000: 'SSDT', 'SataAhci', Rev: 1, Len: 2507
+30:366  0:000    10. CCDE1000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 338
+30:366  0:000    11. CCDE0000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1737
+30:366  0:000    12. CCDDF000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+30:366  0:000    13. CCDDE000: 'SSDT', 'CtdpB', Rev: 2, Len: 873
+30:366  0:000    14. CCDDC000: 'SSDT', 'SaSsdt', Rev: 1, Len: 5237
+30:366  0:000    15. CCDDB000: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+30:366  0:000    16. CCDDA000: 'PCCT', 'TP-JB', Rev: 5, Len: 110
+30:366  0:000    17. CCDD9000: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+30:366  0:000    18. CCDD8000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+30:366  0:000    19. CCDD7000: 'SSDT', 'TpmTable', Rev: 2, Len: 1712
+30:366  0:000    20. CCDD6000: 'UEFI', 'TP-JB', Rev: 1, Len: 66
+30:366  0:000    21. CCCB1000: 'MSDM', 'TP-JB', Rev: 3, Len: 85
+30:366  0:000    22. CCDD5000: 'BATB', 'TP-JB', Rev: 2, Len: 74
+30:366  0:000    23. CCDD4000: 'FPDT', 'TP-JB', Rev: 1, Len: 100
+30:366  0:000    24. CCDD3000: 'UEFI', 'TP-JB', Rev: 1, Len: 798
+30:366  0:000    Tables in Rsdt: 25
+30:366  0:000    0. CCDF8000: 'FACP', 'TP-JB', Rev: 5, Len: 268
+30:366  0:000        (Dsdt: CCDE3000, Facs: CCD68000, XDsdt: CCDE3000, XFacs: 0)
+30:366  0:000        CCDE3000: 'DSDT', 'TP-JB', Rev: 2, Len: 69541
+30:366  0:000        CCD68000: 'FACS', Ver: 2, Len: 64
+30:366  0:000    1. CCDFD000: 'SLIC', 'TP-JB', Rev: 1, Len: 374
+30:366  0:000    2. CCDFC000: 'ASF!', 'TP-JB', Rev: 32, Len: 165
+30:366  0:000    3. CCDFB000: 'HPET', 'TP-JB', Rev: 1, Len: 56
+30:366  0:000    4. CCDFA000: 'ECDT', 'TP-JB', Rev: 1, Len: 82
+30:366  0:000    5. CCDF7000: 'APIC', 'TP-JB', Rev: 1, Len: 152
+30:366  0:000    6. CCDF6000: 'MCFG', 'TP-JB', Rev: 1, Len: 60
+30:366  0:000    7. CCDF5000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+30:366  0:000    8. CCDF4000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1158
+30:366  0:000    9. CCDE2000: 'SSDT', 'SataAhci', Rev: 1, Len: 2507
+30:366  0:000    10. CCDE1000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 338
+30:366  0:000    11. CCDE0000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1737
+30:366  0:000    12. CCDDF000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+30:366  0:000    13. CCDDE000: 'SSDT', 'CtdpB', Rev: 2, Len: 873
+30:366  0:000    14. CCDDC000: 'SSDT', 'SaSsdt', Rev: 1, Len: 5237
+30:366  0:000    15. CCDDB000: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+30:366  0:000    16. CCDDA000: 'PCCT', 'TP-JB', Rev: 5, Len: 110
+30:366  0:000    17. CCDD9000: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+30:366  0:000    18. CCDD8000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+30:366  0:000    19. CCDD7000: 'SSDT', 'TpmTable', Rev: 2, Len: 1712
+30:366  0:000    20. CCDD6000: 'UEFI', 'TP-JB', Rev: 1, Len: 66
+30:366  0:000    21. CCCB1000: 'MSDM', 'TP-JB', Rev: 3, Len: 85
+30:366  0:000    22. CCDD5000: 'BATB', 'TP-JB', Rev: 2, Len: 74
+30:366  0:000    23. CCDD4000: 'FPDT', 'TP-JB', Rev: 1, Len: 100
+30:366  0:000    24. CCDD3000: 'UEFI', 'TP-JB', Rev: 1, Len: 798
+30:366  0:000  Found UEFI Acpi 1.0 RSDP at CCDFE000
+30:366  0:000  Printing ACPI tables from RSDP CCDFE000 ...
+30:366  0:000   CCDFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+30:366  0:000    (Rsdt: CCDFE038)
+30:366  0:000    CCDFE038: 'RSDT', 'TP-JB', Rev: 1, Len: 132
+30:366  0:000    Tables in Rsdt: 24
+30:366  0:000    0. CCDF9000: 'FACP', 'TP-JB', Rev: 1, Len: 116
+30:366  0:000        (Dsdt: CCDE3000, Facs: CCD68000)
+30:366  0:000        CCDE3000: 'DSDT', 'TP-JB', Rev: 2, Len: 69541
+30:366  0:000        CCD68000: 'FACS', Ver: 2, Len: 64
+30:366  0:000    1. CCDFC000: 'ASF!', 'TP-JB', Rev: 32, Len: 165
+30:366  0:000    2. CCDFB000: 'HPET', 'TP-JB', Rev: 1, Len: 56
+30:366  0:000    3. CCDFA000: 'ECDT', 'TP-JB', Rev: 1, Len: 82
+30:366  0:000    4. CCDF7000: 'APIC', 'TP-JB', Rev: 1, Len: 152
+30:366  0:000    5. CCDF6000: 'MCFG', 'TP-JB', Rev: 1, Len: 60
+30:366  0:000    6. CCDF5000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+30:366  0:000    7. CCDF4000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1158
+30:366  0:000    8. CCDE2000: 'SSDT', 'SataAhci', Rev: 1, Len: 2507
+30:366  0:000    9. CCDE1000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 338
+30:366  0:000    10. CCDE0000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1737
+30:366  0:000    11. CCDDF000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+30:366  0:000    12. CCDDE000: 'SSDT', 'CtdpB', Rev: 2, Len: 873
+30:366  0:000    13. CCDDC000: 'SSDT', 'SaSsdt', Rev: 1, Len: 5237
+30:366  0:000    14. CCDDB000: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+30:366  0:000    15. CCDDA000: 'PCCT', 'TP-JB', Rev: 5, Len: 110
+30:366  0:000    16. CCDD9000: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+30:366  0:000    17. CCDD8000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+30:366  0:000    18. CCDD7000: 'SSDT', 'TpmTable', Rev: 2, Len: 1712
+30:366  0:000    19. CCDD6000: 'UEFI', 'TP-JB', Rev: 1, Len: 66
+30:366  0:000    20. CCCB1000: 'MSDM', 'TP-JB', Rev: 3, Len: 85
+30:366  0:000    21. CCDD5000: 'BATB', 'TP-JB', Rev: 2, Len: 74
+30:366  0:000    22. CCDD4000: 'FPDT', 'TP-JB', Rev: 1, Len: 100
+30:366  0:000    23. CCDD3000: 'UEFI', 'TP-JB', Rev: 1, Len: 798
